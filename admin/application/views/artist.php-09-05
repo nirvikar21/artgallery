@@ -1,0 +1,106 @@
+
+<div class="ak-sub-banner" style="background-image: url(<?=base_url('assets/')?>images/subheader-img.jpg);"> <span class="ak-sub-banner-dark"></span>
+
+	<div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Artists</h2>
+        <!--<ul class="ak-breadcrumb">
+          <li><a href="index.html">Homepage</a></li>
+          <li>Artist</li>
+        </ul>-->
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+<section class="Artist">
+	<div class="container">
+		<div class="search">
+			<div class="fom-body">
+				<form name="frm" method="post" action="<?=base_url('artist')?>">
+				  <div class="row">
+					<div class="col-md-6 col-xs-6 pad-right">
+					  <div class="form-group">
+						<label>Find Artist</label>
+						<div class="searchArea">
+						 <input type="text" name="artist" class="form-control" id="artist" placeholder="Search..">
+						 <input type="hidden" name="artist_id" id="artist_ids">
+						</div>
+						
+					  </div>
+					</div>
+
+					<div class="col-md-6 col-xs-6 pad-left">
+					  <div class="form-group">
+						<label>Art Type</label>
+						<select name="category" id="category" class="myselect form-control city e1" >
+						    <option value="" select="" >Select Type </option>
+						  <?php foreach($categoryData as $cat){?>
+						    <option value="<?=$cat->id?>"<?php echo isset($page->category) && $page->category ==  $cat->id ? 'selected' : ''; ?>><?=$cat->category_name?></option>
+						  <?php }?>
+						</select>
+					  </div>
+					</div>
+
+					<!--<div class="col-md-6 col-xs-6 pad-left ">
+					  <div class="form-group">
+						<label>Category</label>
+						<select name="subcategory" id="subcategory" class="myselect form-control city e1" >
+						  <option value="" select="" >Select Category </option>
+						    <?php foreach($subcatData as $subcat){ print_r($cat)?>
+								<option value="<?=$subcat->id?>" <?php echo isset($page->subcategory) && $page->subcategory ==  $subcat->id ? 'selected' : ''; ?>><?=$subcat->subcat_name?></option>
+							<?php }?>	
+						</select>
+					  </div>
+					</div>-->
+
+					<!--<div class="col-md-2 col-xs-12 ">
+					  <div class="form-group">
+						 <button name="searchData" class="submit-bt-details">Search</button>
+					  </div>
+
+					</div>-->
+
+				  </div> 
+
+				</form>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</section>
+
+
+
+<section class="artist-listing">
+	<div class="container">
+		<div class="row">
+			<div id="content-1" class="content mCustomScrollbar">
+				<div id="responsive">
+					<?php foreach($artistData as $artist){?>
+					<div class="col-md-3 col-xs-6 art-list-pad-right">
+						<div class="job-featured">
+							<div class="content">
+								<h3><a href="<?=base_url('artist-details/'.$artist->artist_id)?>"><?=$artist->artist_name?> </a><span>(<?=getArtistImgCount($artist->artist_id)?>)</span></h3>
+							</div>
+						</div>
+					</div>
+					<?php }?>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</section>
+<script>
+
+
+</script>

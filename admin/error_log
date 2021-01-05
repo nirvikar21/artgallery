@@ -1,0 +1,919 @@
+[14-Nov-2018 12:24:27 UTC] PHP Fatal error:  Call to a member function select() on null in /home/rwtsecure/public_html/whz/application/models/whz_admin/Admin_login.php on line 15
+[14-Nov-2018 12:51:17 UTC] PHP Fatal error:  Call to a member function select() on null in /home/rwtsecure/public_html/whz/application/models/whz_admin/Admin_model.php on line 31
+[14-Nov-2018 13:39:12 UTC] PHP Fatal error:  Call to a member function isExistsRequestEmail() on null in /home/rwtsecure/public_html/whz/application/controllers/Home.php on line 54
+[15-Nov-2018 05:25:45 UTC] PHP Parse error:  syntax error, unexpected '/=' (T_DIV_EQUAL) in /home/rwtsecure/public_html/whz/application/views/request-invitation.php on line 25
+[15-Nov-2018 05:49:18 UTC] PHP Fatal error:  Cannot redeclare Admincontroller::inviteRequest() in /home/rwtsecure/public_html/whz/application/controllers/whz_admin/Admincontroller.php on line 57
+[15-Nov-2018 07:06:43 UTC] PHP Fatal error:  Call to undefined function home_url() in /home/rwtsecure/public_html/whz/application/views/common/front_header.php on line 26
+[15-Nov-2018 09:30:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtsecure/public_html/whz/application/views/whz_admin/pages.php on line 65
+[15-Nov-2018 11:15:01 UTC] PHP Fatal error:  Call to a member function isExistsPage() on null in /home/rwtsecure/public_html/whz/application/controllers/whz_admin/Cms_controller.php on line 85
+[16-Nov-2018 06:50:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/controllers/Home.php on line 101
+[16-Nov-2018 08:30:49 UTC] PHP Fatal error:  Function name must be a string in /home/rwtsecure/public_html/whz/application/views/registration.php on line 11
+[16-Nov-2018 09:08:05 UTC] PHP Fatal error:  Function name must be a string in /home/rwtsecure/public_html/whz/application/views/registration-success.php on line 10
+[16-Nov-2018 12:46:28 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rwtsecure/public_html/whz/application/controllers/Home.php on line 232
+[23-Nov-2018 12:20:55 UTC] PHP Fatal error:  Cannot redeclare User_controller::userDashboard() in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 33
+[23-Nov-2018 13:39:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 55
+[23-Nov-2018 13:40:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 55
+[23-Nov-2018 13:40:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 55
+[23-Nov-2018 13:41:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 55
+[23-Nov-2018 13:45:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rwtsecure/public_html/whz/application/views/users/user-profile-step1.php on line 13
+[26-Nov-2018 08:24:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 139
+[27-Nov-2018 06:45:57 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ',' or ';' in /home/rwtsecure/public_html/whz/application/views/users/user-profile-step2.php on line 15
+[27-Nov-2018 06:47:19 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ',' or ';' in /home/rwtsecure/public_html/whz/application/views/users/user-profile-step2.php on line 19
+[27-Nov-2018 11:42:00 UTC] PHP Fatal error:  Cannot redeclare User_controller::deleteProfDetails() in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 266
+[27-Nov-2018 12:44:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rwtsecure/public_html/whz/application/views/users/user-profile-step4.php on line 23
+[27-Nov-2018 13:41:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rwtsecure/public_html/whz/application/views/users/user-profile-step2.php on line 47
+[28-Nov-2018 09:55:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 35
+[28-Nov-2018 10:26:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtsecure/public_html/whz/application/views/users/common/user-sidebar.php on line 8
+[04-Dec-2018 10:19:11 UTC] PHP Fatal error:  Call to undefined function encryptString() in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 129
+[04-Dec-2018 10:21:23 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 3
+[04-Dec-2018 10:22:50 UTC] PHP Fatal error:  Call to undefined function encryptString() in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 130
+[04-Dec-2018 10:23:03 UTC] PHP Fatal error:  Call to undefined function encryptString() in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 130
+[04-Dec-2018 10:23:08 UTC] PHP Fatal error:  Call to undefined function encryptString() in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 130
+[04-Dec-2018 10:24:11 UTC] PHP Fatal error:  Call to undefined function encryptString() in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 130
+[04-Dec-2018 10:24:13 UTC] PHP Fatal error:  Call to undefined function encryptString() in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 130
+[04-Dec-2018 10:24:15 UTC] PHP Fatal error:  Call to undefined function encryptString() in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 130
+[04-Dec-2018 10:30:53 UTC] PHP Fatal error:  Class 'Encryption' not found in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 5
+[04-Dec-2018 10:30:59 UTC] PHP Fatal error:  Class 'Encryption' not found in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 5
+[04-Dec-2018 10:33:21 UTC] PHP Fatal error:  Class 'Encryption' not found in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 5
+[04-Dec-2018 10:33:26 UTC] PHP Fatal error:  Class 'Encryption' not found in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 5
+[04-Dec-2018 10:33:29 UTC] PHP Fatal error:  Class 'Encryption' not found in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 5
+[04-Dec-2018 10:33:31 UTC] PHP Fatal error:  Class 'Encryption' not found in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 5
+[04-Dec-2018 10:58:01 UTC] PHP Fatal error:  Call to a member function addFriendRequest() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Connection_controller.php on line 34
+[04-Dec-2018 11:26:19 UTC] PHP Fatal error:  Cannot redeclare getFriendStatus() (previously declared in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php:24) in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 77
+[04-Dec-2018 12:03:29 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rwtsecure/public_html/whz/application/views/users/common/user_header.php on line 122
+[04-Dec-2018 12:03:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtsecure/public_html/whz/application/views/users/common/user_header.php on line 181
+[04-Dec-2018 13:12:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 294
+[05-Dec-2018 12:44:39 UTC] PHP Fatal error:  Call to a member function get_where() on null in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 65
+[06-Dec-2018 11:09:30 UTC] PHP Fatal error:  Call to a member function query() on null in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 100
+[06-Dec-2018 11:14:02 UTC] PHP Fatal error:  Call to a member function get() on null in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 103
+[06-Dec-2018 11:15:26 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::rows() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 103
+[06-Dec-2018 12:12:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtsecure/public_html/whz/application/controllers/whz_admin/Cms_controller.php on line 232
+[07-Dec-2018 08:05:42 UTC] PHP Fatal error:  Call to a member function getUserData() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Connection_controller.php on line 71
+[07-Dec-2018 08:06:10 UTC] PHP Fatal error:  Call to undefined method Connection_model::getUserData() in /home/rwtsecure/public_html/whz/application/controllers/users/Connection_controller.php on line 71
+[07-Dec-2018 08:20:56 UTC] PHP Fatal error:  Call to a member function getAllConnections() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Connection_controller.php on line 76
+[07-Dec-2018 11:39:07 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/rwtsecure/public_html/whz/application/views/users/messages.php on line 83
+[07-Dec-2018 11:39:27 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/rwtsecure/public_html/whz/application/views/users/messages.php on line 83
+[07-Dec-2018 11:39:30 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/rwtsecure/public_html/whz/application/views/users/messages.php on line 83
+[07-Dec-2018 11:41:37 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 11:41:37 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 11:41:38 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 11:41:38 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 11:41:40 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 11:41:40 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 11:41:40 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 11:41:41 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 11:41:41 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 11:41:41 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 11:41:41 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 11:41:41 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 11:41:41 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 11:41:42 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 11:41:42 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 11:41:42 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:15:44 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:15:44 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:15:47 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:15:49 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:29:39 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:29:39 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:29:40 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:29:40 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:29:41 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:29:42 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:29:42 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:29:42 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:30:26 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:30:26 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:30:43 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:30:43 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:32:16 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:32:16 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:32:16 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:32:16 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:32:17 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:32:17 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:32:17 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:32:17 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:32:18 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:32:18 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:32:18 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:32:18 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:32:19 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:32:19 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:32:20 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:32:20 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:32:20 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:32:20 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:38:45 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:38:45 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:38:45 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:38:46 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:38:46 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:38:46 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:38:47 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:38:47 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:44:46 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:44:46 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 51
+[07-Dec-2018 12:44:46 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[07-Dec-2018 12:44:46 UTC] PHP Fatal error:  Call to undefined function getMemberUserID() in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 21
+[10-Dec-2018 08:30:17 UTC] PHP Parse error:  syntax error, unexpected 'join' (T_STRING) in /home/rwtsecure/public_html/whz/application/models/users/Chat_model.php on line 178
+[10-Dec-2018 09:29:13 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rwtsecure/public_html/whz/application/views/users/messages.php on line 9
+[10-Dec-2018 09:29:45 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rwtsecure/public_html/whz/application/views/users/messages.php on line 9
+[10-Dec-2018 09:29:51 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rwtsecure/public_html/whz/application/views/users/messages.php on line 9
+[10-Dec-2018 10:45:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/rwtsecure/public_html/whz/application/controllers/users/Chat_controller.php on line 69
+[10-Dec-2018 10:45:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/rwtsecure/public_html/whz/application/controllers/users/Chat_controller.php on line 69
+[10-Dec-2018 10:46:44 UTC] PHP Fatal error:  Call to a member function input() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Chat_controller.php on line 61
+[11-Dec-2018 07:47:05 UTC] PHP Fatal error:  Using $this when not in object context in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 241
+[11-Dec-2018 07:48:06 UTC] PHP Fatal error:  Using $this when not in object context in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 246
+[11-Dec-2018 09:21:25 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::group_by() in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 223
+[12-Dec-2018 07:58:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtsecure/public_html/whz/application/views/users/companies.php on line 75
+[12-Dec-2018 10:34:09 UTC] PHP Fatal error:  Call to undefined function decriptString() in /home/rwtsecure/public_html/whz/application/models/users/Company_model.php on line 16
+[17-Dec-2018 08:15:06 UTC] PHP Fatal error:  Call to undefined method User_model::getCompanyData() in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 50
+[17-Dec-2018 08:17:42 UTC] PHP Fatal error:  Call to undefined method User_model::getCompanyData() in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 50
+[17-Dec-2018 08:18:22 UTC] PHP Fatal error:  Call to undefined method User_model::getCompanyData() in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 50
+[19-Dec-2018 05:35:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 307
+[19-Dec-2018 06:15:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 206
+[19-Dec-2018 07:41:07 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 209
+[19-Dec-2018 08:30:35 UTC] PHP Fatal error:  Call to undefined function getCompanyData() in /home/rwtsecure/public_html/whz/application/controllers/users/Company_controller.php on line 90
+[19-Dec-2018 10:07:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rwtsecure/public_html/whz/application/models/users/Company_model.php on line 70
+[19-Dec-2018 11:10:50 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/users/Company_controller.php on line 50
+[20-Dec-2018 06:08:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rwtsecure/public_html/whz/application/views/users/company-details.php on line 9
+[20-Dec-2018 06:35:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rwtsecure/public_html/whz/application/views/users/company-details.php on line 9
+[26-Dec-2018 06:01:56 UTC] PHP Fatal error:  Call to a member function getUserInstituteData() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 28
+[26-Dec-2018 06:02:25 UTC] PHP Fatal error:  Call to undefined method Institute_model::getUserInstituteData() in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 28
+[26-Dec-2018 13:14:57 UTC] PHP Fatal error:  Call to undefined method Institute_model::getUserCompanyData() in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 50
+[04-Feb-2019 13:33:18 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 439
+[04-Feb-2019 13:33:18 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 439
+[04-Feb-2019 13:33:18 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 439
+[04-Feb-2019 13:33:18 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 439
+[04-Feb-2019 13:33:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 443
+[04-Feb-2019 13:34:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 443
+[05-Feb-2019 10:30:24 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/rwtsecure/public_html/whz/application/views/users/yellow-pages-detail.php on line 177
+[05-Feb-2019 11:47:12 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 331
+[05-Feb-2019 11:47:38 UTC] PHP Parse error:  syntax error, unexpected ''whz_conne' (T_ENCAPSED_AND_WHITESPACE) in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 93
+[05-Feb-2019 13:14:04 UTC] PHP Fatal error:  Call to a member function join() on null in /home/rwtsecure/public_html/whz/application/models/whz_admin/Admin_model.php on line 102
+[21-Feb-2019 06:59:53 UTC] PHP Fatal error:  require(): Failed opening required '/home/rwtsecure/public_html/whz/application//libraries/REST_Controller.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 2
+[21-Feb-2019 07:02:43 UTC] PHP Fatal error:  Class 'REST_Controller' not found in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 4
+[21-Feb-2019 07:03:36 UTC] PHP Fatal error:  Class 'REST_Controller' not found in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 4
+[21-Feb-2019 07:03:38 UTC] PHP Fatal error:  Class 'REST_Controller' not found in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 4
+[21-Feb-2019 07:10:11 UTC] PHP Fatal error:  Class 'REST_Controller' not found in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 8
+[28-Feb-2019 08:28:12 UTC] PHP Fatal error:  Call to undefined method User_Profile::apiResponse() in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 126
+[28-Feb-2019 11:32:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 139
+[28-Feb-2019 11:40:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 144
+[28-Feb-2019 11:41:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 144
+[04-Mar-2019 07:08:37 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 226
+[04-Mar-2019 07:08:41 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 226
+[04-Mar-2019 07:08:47 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 226
+[04-Mar-2019 07:09:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 226
+[04-Mar-2019 07:09:57 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 226
+[04-Mar-2019 07:10:00 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 226
+[04-Mar-2019 07:10:05 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 226
+[04-Mar-2019 07:16:45 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 226
+[04-Mar-2019 07:18:47 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 226
+[04-Mar-2019 07:21:40 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 226
+[04-Mar-2019 07:21:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 225
+[04-Mar-2019 07:21:54 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 225
+[04-Mar-2019 07:21:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 225
+[04-Mar-2019 07:21:58 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 225
+[06-Mar-2019 10:23:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 194
+[07-Mar-2019 07:45:31 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rwtsecure/public_html/whz/application/views/users/user-profile.php on line 30
+[07-Mar-2019 09:21:33 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 588
+[07-Mar-2019 09:39:13 UTC] PHP Fatal error:  Call to undefined method User_controller::post() in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 588
+[07-Mar-2019 09:44:27 UTC] PHP Fatal error:  Call to undefined method User_controller::post() in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 589
+[07-Mar-2019 09:45:08 UTC] PHP Fatal error:  Call to undefined method User_controller::post() in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 591
+[07-Mar-2019 11:19:41 UTC] PHP Fatal error:  Using $this when not in object context in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 390
+[07-Mar-2019 12:49:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 37
+[07-Mar-2019 12:53:07 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 76
+[07-Mar-2019 13:03:30 UTC] PHP Fatal error:  Call to undefined function basse_url() in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 71
+[07-Mar-2019 13:03:34 UTC] PHP Fatal error:  Call to undefined function basse_url() in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 71
+[07-Mar-2019 13:04:20 UTC] PHP Warning:  Unterminated comment starting line 144 in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 144
+[07-Mar-2019 13:04:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 144
+[07-Mar-2019 13:15:33 UTC] PHP Parse error:  syntax error, unexpected '$post_comment' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 626
+[08-Mar-2019 05:16:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtsecure/public_html/whz/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[12-Mar-2019 08:33:31 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 439
+[12-Mar-2019 08:38:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 443
+[12-Mar-2019 08:38:44 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 443
+[12-Mar-2019 10:36:36 UTC] PHP Parse error:  syntax error, unexpected 'addPostData_post' (T_STRING), expecting variable (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 481
+[12-Mar-2019 10:37:56 UTC] PHP Parse error:  syntax error, unexpected 'addPostData_post' (T_STRING), expecting variable (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 481
+[12-Mar-2019 10:38:18 UTC] PHP Parse error:  syntax error, unexpected 'addPostData_post' (T_STRING), expecting variable (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 481
+[12-Mar-2019 10:38:23 UTC] PHP Parse error:  syntax error, unexpected 'addPostData_post' (T_STRING), expecting variable (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 481
+[12-Mar-2019 10:38:27 UTC] PHP Parse error:  syntax error, unexpected 'addPostData_post' (T_STRING), expecting variable (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 481
+[12-Mar-2019 10:38:46 UTC] PHP Parse error:  syntax error, unexpected 'addPostData_post' (T_STRING), expecting variable (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 481
+[12-Mar-2019 10:39:08 UTC] PHP Parse error:  syntax error, unexpected 'addPostData_post' (T_STRING), expecting variable (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 481
+[12-Mar-2019 10:39:30 UTC] PHP Parse error:  syntax error, unexpected 'addPostData_post' (T_STRING), expecting variable (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 481
+[12-Mar-2019 10:50:21 UTC] PHP Fatal error:  Call to undefined method Admin_model::selectAllData() in /home/rwtsecure/public_html/whz/application/controllers/whz_admin/Cms_controller.php on line 825
+[12-Mar-2019 11:04:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtsecure/public_html/whz/application/views/users/common/user-sidebar.php on line 19
+[12-Mar-2019 11:28:47 UTC] PHP Fatal error:  Call to a member function updateData() on null in /home/rwtsecure/public_html/whz/application/controllers/whz_admin/Cms_controller.php on line 814
+[12-Mar-2019 11:35:32 UTC] PHP Fatal error:  Call to undefined method Cms_model::getSubCategoryData() in /home/rwtsecure/public_html/whz/application/controllers/whz_admin/Cms_controller.php on line 826
+[15-Mar-2019 05:35:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Profile.php on line 601
+[15-Mar-2019 12:34:20 UTC] PHP Fatal error:  Call to undefined method User_Connection::test_input() in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Connection.php on line 18
+[18-Mar-2019 07:58:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 236
+[18-Mar-2019 08:01:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/User_Apis.php on line 237
+[19-Mar-2019 06:41:35 UTC] PHP Fatal error:  Cannot redeclare Cms_controller::deleteMainCateogry() in /home/rwtsecure/public_html/whz/application/controllers/whz_admin/Cms_controller.php on line 923
+[19-Mar-2019 07:04:11 UTC] PHP Fatal error:  Call to a member function deleteMainCategory() on null in /home/rwtsecure/public_html/whz/application/controllers/whz_admin/Cms_controller.php on line 771
+[19-Mar-2019 12:06:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rwtsecure/public_html/whz/application/views/users/common/company-left-sidebar.php on line 9
+[19-Mar-2019 12:06:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rwtsecure/public_html/whz/application/views/users/common/company-left-sidebar.php on line 9
+[19-Mar-2019 12:07:11 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rwtsecure/public_html/whz/application/views/users/common/company-left-sidebar.php on line 9
+[19-Mar-2019 12:57:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rwtsecure/public_html/whz/application/models/users/Company_model.php on line 129
+[19-Mar-2019 13:21:27 UTC] PHP Fatal error:  Call to a member function getCompanyServiceData() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Company_controller.php on line 285
+[26-Mar-2019 07:47:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 18
+[26-Mar-2019 13:12:21 UTC] PHP Fatal error:  Call to undefined method User_model::insertCompanyPostData() in /home/rwtsecure/public_html/whz/application/controllers/users/Company_controller.php on line 357
+[26-Mar-2019 13:31:34 UTC] PHP Fatal error:  Call to undefined method User_model::getCompanyPostData() in /home/rwtsecure/public_html/whz/application/controllers/users/Company_controller.php on line 372
+[27-Mar-2019 07:39:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 359
+[27-Mar-2019 10:37:34 UTC] PHP Fatal error:  Using $this when not in object context in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 466
+[27-Mar-2019 12:01:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rwtsecure/public_html/whz/application/controllers/users/Company_controller.php on line 562
+[27-Mar-2019 12:16:01 UTC] PHP Fatal error:  Call to a member function clear() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Company_controller.php on line 564
+[28-Mar-2019 06:52:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtsecure/public_html/whz/application/views/users/company-add-gallery.php on line 217
+[28-Mar-2019 10:20:47 UTC] PHP Fatal error:  Call to undefined method User_model::getContactData() in /home/rwtsecure/public_html/whz/application/controllers/users/Company_controller.php on line 680
+[28-Mar-2019 12:14:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtsecure/public_html/whz/application/views/users/institutes.php on line 155
+[29-Mar-2019 10:22:55 UTC] PHP Fatal error:  Call to undefined method Institute_controller::test_input() in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 48
+[29-Mar-2019 11:11:53 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 163
+[29-Mar-2019 11:12:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rwtsecure/public_html/whz/application/models/users/Institute_model.php on line 64
+[29-Mar-2019 11:13:01 UTC] PHP Fatal error:  Call to a member function getData() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 224
+[29-Mar-2019 11:14:06 UTC] PHP Fatal error:  Call to undefined method Institute_model::InstituteData() in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 211
+[29-Mar-2019 12:18:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtsecure/public_html/whz/application/views/users/institute-executive-cources.php on line 202
+[29-Mar-2019 12:56:21 UTC] PHP Fatal error:  Call to a member function addData() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 283
+[30-Mar-2019 06:05:11 UTC] PHP Fatal error:  Call to undefined method Institute_model::getgalleryData() in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 429
+[30-Mar-2019 06:05:30 UTC] PHP Fatal error:  Call to undefined method Institute_model::getgalleryData() in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 429
+[30-Mar-2019 06:18:47 UTC] PHP Fatal error:  Call to a member function addData() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 536
+[30-Mar-2019 06:41:29 UTC] PHP Fatal error:  Call to a member function getgalleryData() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 501
+[30-Mar-2019 07:14:58 UTC] PHP Fatal error:  Call to a member function getInstituteFaqData() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 653
+[30-Mar-2019 07:17:00 UTC] PHP Fatal error:  Call to a member function addData() on null in /home/rwtsecure/public_html/whz/application/controllers/users/Institute_controller.php on line 642
+[30-Mar-2019 09:23:26 UTC] PHP Fatal error:  Call to undefined method Company_controller::resizeImage() in /home/rwtsecure/public_html/whz/application/controllers/users/Company_controller.php on line 879
+[30-Mar-2019 09:23:58 UTC] PHP Fatal error:  Call to undefined method Company_controller::resizeImage() in /home/rwtsecure/public_html/whz/application/controllers/users/Company_controller.php on line 879
+[30-Mar-2019 09:56:39 UTC] PHP Fatal error:  Call to undefined function getAllUserInstitute() in /home/rwtsecure/public_html/whz/application/views/users/common/user_header.php on line 341
+[30-Mar-2019 09:56:42 UTC] PHP Fatal error:  Call to undefined function getAllUserInstitute() in /home/rwtsecure/public_html/whz/application/views/users/common/user_header.php on line 341
+[30-Mar-2019 09:56:45 UTC] PHP Fatal error:  Call to undefined function getAllUserInstitute() in /home/rwtsecure/public_html/whz/application/views/users/common/user_header.php on line 341
+[30-Mar-2019 09:57:16 UTC] PHP Fatal error:  Call to undefined function getAllUserInstitute() in /home/rwtsecure/public_html/whz/application/views/users/common/user_header.php on line 341
+[30-Mar-2019 09:57:43 UTC] PHP Fatal error:  Call to undefined function getAllUserInstitute() in /home/rwtsecure/public_html/whz/application/views/users/common/user_header.php on line 341
+[30-Mar-2019 10:43:26 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/rwtsecure/public_html/whz/application/models/users/Institute_model.php on line 208
+[30-Mar-2019 11:21:50 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rwtsecure/public_html/whz/application/views/users/institutes.php on line 67
+[30-Mar-2019 11:22:48 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rwtsecure/public_html/whz/application/views/users/institutes.php on line 67
+[30-Mar-2019 11:22:51 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rwtsecure/public_html/whz/application/views/users/institutes.php on line 67
+[30-Mar-2019 11:23:18 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rwtsecure/public_html/whz/application/views/users/institutes.php on line 67
+[30-Mar-2019 11:23:20 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rwtsecure/public_html/whz/application/views/users/institutes.php on line 67
+[30-Mar-2019 12:00:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 302
+[30-Mar-2019 12:09:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/models/users/Institute_model.php on line 79
+[31-Mar-2019 06:21:44 UTC] PHP Fatal error:  Call to a member function getProjectData() on null in /home/rwtsecure/public_html/whz/application/controllers/projects/Project_Controller.php on line 28
+[31-Mar-2019 07:44:42 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rwtsecure/public_html/whz/application/views/projects/projects.php on line 43
+[31-Mar-2019 08:02:33 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtsecure/public_html/whz/application/helpers/whz_helpers_helper.php on line 152
+[31-Mar-2019 12:15:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 335
+[31-Mar-2019 12:15:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 335
+[31-Mar-2019 12:16:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 335
+[31-Mar-2019 12:17:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 335
+[31-Mar-2019 12:18:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 336
+[31-Mar-2019 12:19:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 336
+[31-Mar-2019 12:19:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 336
+[31-Mar-2019 12:19:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 336
+[31-Mar-2019 12:20:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 337
+[31-Mar-2019 12:38:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 337
+[31-Mar-2019 12:39:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 337
+[31-Mar-2019 12:39:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 333
+[31-Mar-2019 12:40:29 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 337
+[31-Mar-2019 12:41:36 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 337
+[01-Apr-2019 10:48:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtsecure/public_html/whz/application/views/projects/project-detail.php on line 480
+[01-Apr-2019 13:08:33 UTC] PHP Fatal error:  Call to undefined method Project_Model::getProjectTagData() in /home/rwtsecure/public_html/whz/application/controllers/projects/Project_Controller.php on line 285
+[02-Apr-2019 06:41:17 UTC] PHP Parse error:  syntax error, unexpected '$active' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 43
+[02-Apr-2019 06:41:25 UTC] PHP Parse error:  syntax error, unexpected '$active' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 43
+[02-Apr-2019 06:43:13 UTC] PHP Parse error:  syntax error, unexpected '$active' (T_VARIABLE) in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 43
+[02-Apr-2019 09:07:30 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting variable (T_VARIABLE) or '$' in /home/rwtsecure/public_html/whz/application/views/users/common/user_header.php on line 227
+[02-Apr-2019 11:54:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtsecure/public_html/whz/application/controllers/projects/Project_Controller.php on line 378
+[02-Apr-2019 12:52:50 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtsecure/public_html/whz/application/views/users/common/user_header.php on line 196
+[02-Apr-2019 12:54:16 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtsecure/public_html/whz/application/views/users/common/user_header.php on line 196
+[03-Apr-2019 05:03:37 UTC] PHP Fatal error:  Call to undefined method User_model::AllNotificationData() in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 776
+[03-Apr-2019 06:27:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtsecure/public_html/whz/application/views/users/user-all-notifications.php on line 153
+[03-Apr-2019 06:28:47 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtsecure/public_html/whz/application/views/users/user-all-notifications.php on line 112
+[03-Apr-2019 06:55:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtsecure/public_html/whz/application/views/users/user-all-notifications.php on line 154
+[03-Apr-2019 12:32:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/Company_Controller.php on line 235
+[04-Apr-2019 07:14:17 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 134
+[04-Apr-2019 07:14:39 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 134
+[04-Apr-2019 07:14:41 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 134
+[04-Apr-2019 08:22:03 UTC] PHP Fatal error:  Call to undefined function decrtyptString() in /home/rwtsecure/public_html/whz/application/controllers/users/User_controller.php on line 815
+[05-Apr-2019 09:55:59 UTC] PHP Fatal error:  Call to undefined method Company_Controller::resizeImageMedium() in /home/rwtsecure/public_html/whz/application/controllers/Api/Users/Company_Controller.php on line 374
+[05-Apr-2019 12:09:42 UTC] PHP Parse error:  syntax error, unexpected 'Api' (T_STRING), expecting ']' in /home/rwtsecure/public_html/whz/application/config/routes.php on line 220
+[05-Apr-2019 12:10:14 UTC] PHP Parse error:  syntax error, unexpected 'Api' (T_STRING), expecting ']' in /home/rwtsecure/public_html/whz/application/config/routes.php on line 220
+[05-Apr-2019 12:10:14 UTC] PHP Parse error:  syntax error, unexpected 'Api' (T_STRING), expecting ']' in /home/rwtsecure/public_html/whz/application/config/routes.php on line 220
+[05-Apr-2019 12:10:14 UTC] PHP Parse error:  syntax error, unexpected 'Api' (T_STRING), expecting ']' in /home/rwtsecure/public_html/whz/application/config/routes.php on line 220
+[05-Apr-2019 12:10:14 UTC] PHP Parse error:  syntax error, unexpected 'Api' (T_STRING), expecting ']' in /home/rwtsecure/public_html/whz/application/config/routes.php on line 220
+[05-Apr-2019 12:10:41 UTC] PHP Parse error:  syntax error, unexpected ''users/company/(:' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rwtsecure/public_html/whz/application/config/routes.php on line 110
+[08-Apr-2019 09:28:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rwtsecure/public_html/whz/application/views/users/dashboard.php on line 228
+[29-May-2019 12:29:32 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 241
+[29-May-2019 12:29:36 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 241
+[29-May-2019 12:36:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 232
+[29-May-2019 13:10:40 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/rwtpl/public_html/pizza/system/libraries/Form_validation.php on line 1122
+[29-May-2019 13:22:06 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 9
+[29-May-2019 13:23:46 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 9
+[29-May-2019 13:23:48 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 9
+[29-May-2019 13:23:49 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 9
+[29-May-2019 13:34:38 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 11
+[29-May-2019 13:35:42 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 11
+[29-May-2019 13:37:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 11
+[29-May-2019 13:38:57 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 11
+[29-May-2019 13:39:19 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 11
+[29-May-2019 13:39:21 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 11
+[29-May-2019 13:39:25 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 11
+[29-May-2019 13:39:27 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 11
+[29-May-2019 13:39:32 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 11
+[29-May-2019 13:39:34 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 11
+[29-May-2019 13:39:37 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 11
+[30-May-2019 05:58:59 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 15
+[30-May-2019 05:59:54 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 15
+[30-May-2019 06:00:02 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 15
+[30-May-2019 06:00:26 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 15
+[30-May-2019 06:03:58 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 15
+[30-May-2019 06:03:59 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 15
+[30-May-2019 06:04:17 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 20
+[30-May-2019 06:12:46 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 20
+[30-May-2019 06:14:08 UTC] PHP Fatal error:  Call to undefined function form_error() in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 15
+[30-May-2019 07:16:17 UTC] PHP Fatal error:  Cannot redeclare Home::Updatecart() in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 262
+[30-May-2019 07:52:53 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 211
+[31-May-2019 08:06:47 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 275
+[31-May-2019 08:06:50 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 275
+[31-May-2019 12:27:44 UTC] PHP Parse error:  syntax error, unexpected ''user_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 333
+[31-May-2019 12:52:32 UTC] PHP Parse error:  syntax error, unexpected 'no' (T_STRING) in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 75
+[31-May-2019 12:53:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/pizza/application/views/checkout.php on line 79
+[04-Jun-2019 07:53:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 358
+[04-Jun-2019 07:54:34 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 358
+[04-Jun-2019 08:27:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 351
+[04-Jun-2019 08:28:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 351
+[04-Jun-2019 08:29:12 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 351
+[04-Jun-2019 12:54:25 UTC] PHP Fatal error:  Call to undefined function getCategory() in /home/rwtpl/public_html/pizza/application/views/admin/product.php on line 53
+[04-Jun-2019 13:11:43 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/pizza/application/views/admin/orders.php on line 69
+[04-Jun-2019 13:14:33 UTC] PHP Fatal error:  Call to undefined function getCategory() in /home/rwtpl/public_html/pizza/application/views/admin/product.php on line 53
+[04-Jun-2019 13:15:45 UTC] PHP Fatal error:  Call to undefined function getCategory() in /home/rwtpl/public_html/pizza/application/views/admin/product.php on line 53
+[04-Jun-2019 13:19:30 UTC] PHP Fatal error:  Call to undefined function getCategory() in /home/rwtpl/public_html/pizza/application/views/admin/product.php on line 53
+[04-Jun-2019 13:21:16 UTC] PHP Fatal error:  Call to undefined function getCategory() in /home/rwtpl/public_html/pizza/application/views/admin/product.php on line 53
+[04-Jun-2019 13:21:24 UTC] PHP Fatal error:  Call to undefined function getCategory() in /home/rwtpl/public_html/pizza/application/views/admin/product.php on line 53
+[04-Jun-2019 13:23:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/helpers/pizza_helper.php on line 618
+[04-Jun-2019 13:24:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/helpers/pizza_helper.php on line 618
+[04-Jun-2019 13:24:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/helpers/pizza_helper.php on line 618
+[04-Jun-2019 13:25:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/helpers/pizza_helper.php on line 618
+[04-Jun-2019 13:25:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/helpers/pizza_helper.php on line 618
+[04-Jun-2019 13:25:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/helpers/pizza_helper.php on line 618
+[04-Jun-2019 13:25:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/helpers/pizza_helper.php on line 618
+[05-Jun-2019 07:34:42 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/pizza/application/views/admin/orders.php on line 69
+[05-Jun-2019 08:05:05 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/pizza/application/views/admin/orders.php on line 69
+[05-Jun-2019 08:06:15 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/pizza/application/views/admin/orders.php on line 75
+[05-Jun-2019 08:32:33 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/pizza/application/views/admin/order.php on line 118
+[05-Jun-2019 08:33:06 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rwtpl/public_html/pizza/application/views/admin/order.php on line 116
+[05-Jun-2019 10:01:06 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 358
+[05-Jun-2019 10:01:08 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 358
+[05-Jun-2019 10:02:38 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 358
+[06-Jun-2019 04:04:56 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/rwtpl/public_html/pizza/application/views/admin/add-testimonial.php on line 55
+[06-Jun-2019 04:05:44 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/rwtpl/public_html/pizza/application/views/admin/add-testimonial.php on line 59
+[06-Jun-2019 04:06:23 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/rwtpl/public_html/pizza/application/views/admin/add-testimonial.php on line 64
+[06-Jun-2019 04:06:49 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/rwtpl/public_html/pizza/application/views/admin/add-testimonial.php on line 64
+[06-Jun-2019 04:22:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 571
+[10-Jun-2019 13:05:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 601
+[10-Jun-2019 13:06:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 601
+[10-Jun-2019 13:06:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 601
+[10-Jun-2019 13:07:33 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 598
+[10-Jun-2019 13:09:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 598
+[10-Jun-2019 13:09:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 598
+[10-Jun-2019 13:09:36 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 598
+[10-Jun-2019 13:09:36 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 598
+[10-Jun-2019 13:10:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 598
+[10-Jun-2019 13:10:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 598
+[10-Jun-2019 13:10:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 598
+[11-Jun-2019 05:27:11 UTC] PHP Fatal error:  Call to undefined function now() in /home/rwtpl/public_html/pizza/application/views/admin/order.php on line 69
+[11-Jun-2019 05:38:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/pizza/application/views/admin/order.php on line 67
+[11-Jun-2019 05:39:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/pizza/application/views/admin/order.php on line 67
+[11-Jun-2019 05:39:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/pizza/application/views/admin/order.php on line 67
+[11-Jun-2019 05:48:39 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/rwtpl/public_html/pizza/application/views/admin/order.php on line 80
+[11-Jun-2019 05:49:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/views/admin/order.php on line 82
+[11-Jun-2019 07:03:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 55
+[11-Jun-2019 07:05:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 55
+[11-Jun-2019 07:08:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 55
+[11-Jun-2019 07:15:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 55
+[11-Jun-2019 07:15:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 55
+[11-Jun-2019 12:29:17 UTC] PHP Parse error:  syntax error, unexpected '$ready' (T_VARIABLE) in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 1
+[11-Jun-2019 12:29:54 UTC] PHP Parse error:  syntax error, unexpected '$ready' (T_VARIABLE) in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 1
+[11-Jun-2019 12:30:49 UTC] PHP Parse error:  syntax error, unexpected '$ready' (T_VARIABLE) in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 1
+[11-Jun-2019 12:31:11 UTC] PHP Parse error:  syntax error, unexpected '$ready' (T_VARIABLE) in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 1
+[11-Jun-2019 12:31:15 UTC] PHP Parse error:  syntax error, unexpected '$ready' (T_VARIABLE) in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 1
+[11-Jun-2019 12:31:52 UTC] PHP Parse error:  syntax error, unexpected '$ready' (T_VARIABLE) in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 1
+[11-Jun-2019 12:33:04 UTC] PHP Parse error:  syntax error, unexpected '$ready' (T_VARIABLE) in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 1
+[11-Jun-2019 12:33:26 UTC] PHP Parse error:  syntax error, unexpected '$ready' (T_VARIABLE) in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 1
+[11-Jun-2019 12:35:11 UTC] PHP Parse error:  syntax error, unexpected '$customer' (T_VARIABLE) in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 1
+[11-Jun-2019 12:38:33 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/pizza/application/helpers/pizza_helper.php on line 77
+[11-Jun-2019 12:38:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/pizza/application/helpers/pizza_helper.php on line 82
+[12-Jun-2019 05:23:54 UTC] PHP Fatal error:  Call to undefined function getCategory() in /home/rwtpl/public_html/pizza/application/views/admin/product.php on line 53
+[12-Jun-2019 05:34:04 UTC] PHP Fatal error:  Call to undefined function getCategory() in /home/rwtpl/public_html/pizza/application/views/admin/product.php on line 53
+[12-Jun-2019 05:34:39 UTC] PHP Fatal error:  Call to undefined function getCategory() in /home/rwtpl/public_html/pizza/application/views/admin/product.php on line 53
+[12-Jun-2019 05:35:08 UTC] PHP Fatal error:  Call to undefined function getCategory() in /home/rwtpl/public_html/pizza/application/views/admin/product.php on line 53
+[12-Jun-2019 05:35:10 UTC] PHP Fatal error:  Call to undefined function getCategory() in /home/rwtpl/public_html/pizza/application/views/admin/product.php on line 53
+[12-Jun-2019 10:23:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/pizza/application/views/common/front_header.php on line 130
+[14-Jun-2019 11:50:21 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/pizza/application/models/admin/Cms_model.php on line 124
+[14-Jun-2019 11:53:51 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/pizza/application/models/admin/Cms_model.php on line 124
+[14-Jun-2019 12:21:21 UTC] PHP Fatal error:  Cannot redeclare Cms_controller::addRider() in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 614
+[14-Jun-2019 12:21:51 UTC] PHP Fatal error:  Cannot redeclare Cms_controller::addRider() in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 614
+[14-Jun-2019 12:22:28 UTC] PHP Fatal error:  Cannot redeclare Cms_controller::addRider() in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 614
+[14-Jun-2019 13:20:51 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/pizza/application/models/admin/Cms_model.php on line 124
+[17-Jun-2019 05:43:47 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 90
+[17-Jun-2019 05:44:10 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 90
+[17-Jun-2019 05:44:21 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 90
+[17-Jun-2019 06:09:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 96
+[17-Jun-2019 06:10:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 96
+[17-Jun-2019 06:11:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/pizza/application/views/admin/dashboard.php on line 96
+[17-Jun-2019 14:45:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 656
+[17-Jun-2019 14:46:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 657
+[17-Jun-2019 14:47:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 657
+[17-Jun-2019 14:47:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 657
+[17-Jun-2019 14:47:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 657
+[17-Jun-2019 14:47:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 657
+[17-Jun-2019 14:49:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/controllers/admin/Cms_controller.php on line 657
+[17-Jun-2019 18:37:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/models/Home_model.php on line 163
+[17-Jun-2019 18:39:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/models/Home_model.php on line 163
+[17-Jun-2019 18:41:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/models/Home_model.php on line 163
+[17-Jun-2019 18:42:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/models/Home_model.php on line 163
+[17-Jun-2019 18:42:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/pizza/application/models/Home_model.php on line 163
+[18-Jun-2019 12:11:41 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home_model::updateData() in /home/rwtpl/public_html/pizza/application/models/Home_model.php on line 200
+[18-Jun-2019 12:11:56 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home_model::updateData() in /home/rwtpl/public_html/pizza/application/models/Home_model.php on line 200
+[18-Jun-2019 12:11:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home_model::updateData() in /home/rwtpl/public_html/pizza/application/models/Home_model.php on line 200
+[18-Jun-2019 12:14:06 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home_model::updateData() in /home/rwtpl/public_html/pizza/application/models/Home_model.php on line 200
+[18-Jun-2019 12:18:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method Home::test_input() in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 417
+[18-Jun-2019 12:19:15 Asia/Kolkata] PHP Fatal error:  Call to undefined method Home::test_input() in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 417
+[18-Jun-2019 12:58:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING) in /home/rwtpl/public_html/pizza/application/views/about.php on line 2
+[18-Jun-2019 18:20:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:20:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:22:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:22:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:22:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:23:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:25:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:25:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:25:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:25:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:27:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:27:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 390
+[18-Jun-2019 18:28:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:28:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:29:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:29:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:29:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:30:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:30:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:30:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:30:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:30:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:34:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:35:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:35:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 385
+[18-Jun-2019 18:46:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 398
+[18-Jun-2019 18:56:33 Asia/Kolkata] PHP Fatal error:  Call to a member function from() on null in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 405
+[18-Jun-2019 18:57:54 Asia/Kolkata] PHP Fatal error:  Call to a member function from() on null in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 403
+[18-Jun-2019 18:58:41 Asia/Kolkata] PHP Fatal error:  Call to a member function from() on null in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 403
+[18-Jun-2019 19:00:23 Asia/Kolkata] PHP Fatal error:  Call to a member function from() on null in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 403
+[18-Jun-2019 19:02:28 Asia/Kolkata] PHP Fatal error:  Call to a member function from() on null in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 403
+[18-Jun-2019 19:02:48 Asia/Kolkata] PHP Fatal error:  Call to a member function from() on null in /home/rwtpl/public_html/pizza/application/controllers/Home.php on line 403
+[25-Jun-2019 13:15:50 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Cms_model::getProductDetails() in /home/rwtpl/public_html/pizza/application/models/admin/Cms_model.php on line 203
+[25-Jun-2019 13:16:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Cms_model::getProductDetails() in /home/rwtpl/public_html/pizza/application/models/admin/Cms_model.php on line 203
+[25-Jun-2019 13:16:40 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Cms_model::getProductDetails() in /home/rwtpl/public_html/pizza/application/models/admin/Cms_model.php on line 203
+[25-Jun-2019 13:16:40 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Cms_model::getProductDetails() in /home/rwtpl/public_html/pizza/application/models/admin/Cms_model.php on line 203
+[25-Jun-2019 13:17:46 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Cms_model::getProductDetails() in /home/rwtpl/public_html/pizza/application/models/admin/Cms_model.php on line 203
+[26-Jun-2019 16:57:05 Asia/Kolkata] PHP Fatal error:  Call to undefined method Home_model::getProduct() in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 28
+[26-Jun-2019 17:15:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 48
+[26-Jun-2019 17:16:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 44
+[26-Jun-2019 17:16:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 44
+[26-Jun-2019 17:16:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 44
+[26-Jun-2019 18:03:05 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 145
+[26-Jun-2019 18:03:09 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 145
+[26-Jun-2019 18:03:23 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 145
+[26-Jun-2019 18:03:30 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 145
+[26-Jun-2019 18:53:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 763
+[26-Jun-2019 18:58:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 763
+[26-Jun-2019 18:59:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 763
+[26-Jun-2019 18:59:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 763
+[26-Jun-2019 18:59:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 763
+[26-Jun-2019 19:00:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 763
+[26-Jun-2019 19:00:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 763
+[26-Jun-2019 19:00:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 763
+[26-Jun-2019 19:00:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 763
+[26-Jun-2019 19:01:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 764
+[26-Jun-2019 19:01:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 764
+[26-Jun-2019 19:01:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 764
+[26-Jun-2019 19:06:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 766
+[26-Jun-2019 19:06:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 766
+[26-Jun-2019 19:06:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 766
+[10-Jul-2019 14:57:56 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 82
+[10-Jul-2019 14:59:14 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 82
+[10-Jul-2019 15:00:56 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 82
+[10-Jul-2019 15:01:04 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 83
+[10-Jul-2019 15:05:35 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 83
+[10-Jul-2019 15:06:13 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 83
+[10-Jul-2019 15:30:15 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 82
+[10-Jul-2019 15:30:26 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 82
+[10-Jul-2019 15:55:16 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 60
+[10-Jul-2019 15:56:49 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 60
+[10-Jul-2019 15:58:13 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 66
+[10-Jul-2019 15:58:15 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 66
+[10-Jul-2019 15:58:15 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 66
+[10-Jul-2019 15:58:16 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 66
+[11-Jul-2019 12:21:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$job_title' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 585
+[11-Jul-2019 12:22:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$job_title' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 585
+[11-Jul-2019 13:44:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$job_title' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 585
+[11-Jul-2019 13:44:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$job_title' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 585
+[11-Jul-2019 13:44:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$job_title' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 585
+[23-Jul-2019 17:30:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/career-marshal/application/views/common/front_header.php on line 47
+[23-Jul-2019 17:31:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/career-marshal/application/views/common/front_header.php on line 48
+[23-Jul-2019 17:31:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/career-marshal/application/views/common/front_header.php on line 48
+[23-Jul-2019 18:04:26 Asia/Kolkata] PHP Fatal error:  Call to a member function getListData() on null in /home/rwtpl/public_html/career-marshal/application/controllers/Employer.php on line 75
+[23-Jul-2019 18:28:10 Asia/Kolkata] PHP Fatal error:  Call to undefined method Employer::test_input() in /home/rwtpl/public_html/career-marshal/application/controllers/Employer.php on line 23
+[23-Jul-2019 18:30:24 Asia/Kolkata] PHP Fatal error:  Call to undefined method Employer::test_input() in /home/rwtpl/public_html/career-marshal/application/controllers/Employer.php on line 23
+[23-Jul-2019 18:31:02 Asia/Kolkata] PHP Fatal error:  Call to undefined method Employer::test_input() in /home/rwtpl/public_html/career-marshal/application/controllers/Employer.php on line 23
+[24-Jul-2019 10:58:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php on line 125
+[24-Jul-2019 10:59:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php on line 125
+[24-Jul-2019 10:59:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php on line 125
+[24-Jul-2019 11:00:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php on line 125
+[24-Jul-2019 11:00:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php on line 125
+[24-Jul-2019 11:29:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/views/index.php on line 233
+[24-Jul-2019 11:29:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/views/index.php on line 233
+[24-Jul-2019 11:29:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/views/index.php on line 233
+[24-Jul-2019 11:29:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/views/index.php on line 233
+[24-Jul-2019 13:49:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 20
+[24-Jul-2019 13:49:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 20
+[24-Jul-2019 14:03:06 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 126
+[24-Jul-2019 14:03:36 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 126
+[24-Jul-2019 14:03:40 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 126
+[24-Jul-2019 14:03:42 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 126
+[24-Jul-2019 14:04:07 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 126
+[24-Jul-2019 14:04:13 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 126
+[24-Jul-2019 14:45:21 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 126
+[24-Jul-2019 15:06:59 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 20
+[24-Jul-2019 15:23:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Cms_controller::addPage() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 772
+[24-Jul-2019 15:24:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Cms_controller::addPage() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 772
+[24-Jul-2019 16:17:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/views/jobs.php on line 275
+[24-Jul-2019 16:18:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/views/jobs.php on line 275
+[24-Jul-2019 16:19:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/views/jobs.php on line 275
+[24-Jul-2019 16:19:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/rwtpl/public_html/career-marshal/application/views/jobs.php on line 276
+[26-Jul-2019 12:54:10 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 66
+[27-Jul-2019 12:02:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtpl/public_html/career-marshal/application/controllers/employers/EmployersDashboard.php on line 112
+[27-Jul-2019 12:02:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtpl/public_html/career-marshal/application/controllers/employers/EmployersDashboard.php on line 112
+[27-Jul-2019 16:28:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 83
+[27-Jul-2019 16:28:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 83
+[27-Jul-2019 16:29:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 83
+[27-Jul-2019 16:29:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 83
+[27-Jul-2019 16:29:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 83
+[27-Jul-2019 16:29:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 83
+[27-Jul-2019 16:30:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 83
+[27-Jul-2019 16:30:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 83
+[27-Jul-2019 16:31:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 91
+[27-Jul-2019 18:12:16 Asia/Kolkata] PHP Fatal error:  Call to undefined method Home_model::deleteData() in /home/rwtpl/public_html/career-marshal/application/controllers/employers/EmployersDashboard.php on line 208
+[29-Jul-2019 12:25:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 46
+[29-Jul-2019 12:25:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 46
+[29-Jul-2019 12:25:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 46
+[29-Jul-2019 12:26:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 46
+[29-Jul-2019 12:43:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 64
+[29-Jul-2019 14:42:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 67
+[29-Jul-2019 15:40:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 83
+[29-Jul-2019 15:40:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 83
+[29-Jul-2019 15:49:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 48
+[29-Jul-2019 15:49:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 48
+[29-Jul-2019 16:33:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 83
+[29-Jul-2019 16:34:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 84
+[29-Jul-2019 16:35:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 84
+[29-Jul-2019 17:13:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'getTitle' (T_STRING), expecting function (T_FUNCTION) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 216
+[29-Jul-2019 17:13:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'getTitle' (T_STRING), expecting function (T_FUNCTION) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 216
+[29-Jul-2019 19:22:06 Asia/Kolkata] PHP Fatal error:  Call to a member function do_upload() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 26
+[29-Jul-2019 19:23:16 Asia/Kolkata] PHP Fatal error:  Call to a member function do_upload() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 26
+[29-Jul-2019 19:23:33 Asia/Kolkata] PHP Fatal error:  Call to a member function do_upload() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 26
+[30-Jul-2019 10:49:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 60
+[30-Jul-2019 11:07:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 61
+[30-Jul-2019 11:28:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home::register() in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 293
+[30-Jul-2019 11:49:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 307
+[30-Jul-2019 11:49:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 307
+[30-Jul-2019 11:50:02 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on null in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 68
+[30-Jul-2019 16:49:11 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home::index() in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 328
+[30-Jul-2019 18:25:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 345
+[30-Jul-2019 19:05:05 Asia/Kolkata] PHP Fatal error:  Call to undefined method Home_model::getDatakey() in /home/rwtpl/public_html/career-marshal/application/controllers/employers/EmployersDashboard.php on line 95
+[30-Jul-2019 19:06:01 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27604 bytes) in /home/rwtpl/public_html/career-marshal/system/libraries/Image_lib.php on line 1466
+[31-Jul-2019 14:51:48 Asia/Kolkata] PHP Fatal error:  Call to undefined method Home_model::getDatakey() in /home/rwtpl/public_html/career-marshal/application/controllers/employers/EmployersDashboard.php on line 95
+[31-Jul-2019 15:44:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 48
+[31-Jul-2019 15:44:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 48
+[31-Jul-2019 15:45:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 48
+[31-Jul-2019 16:25:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 184
+[31-Jul-2019 17:30:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 190
+[01-Aug-2019 12:04:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/views/jobs.php on line 100
+[01-Aug-2019 12:29:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/rwtpl/public_html/career-marshal/application/views/jobs.php on line 266
+[01-Aug-2019 13:07:55 Asia/Kolkata] PHP Fatal error:  Call to undefined function my_escapeshellarg() in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 111
+[01-Aug-2019 13:09:19 Asia/Kolkata] PHP Fatal error:  Call to a member function do_upload() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 105
+[01-Aug-2019 13:12:11 Asia/Kolkata] PHP Fatal error:  Call to a member function do_upload() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 105
+[01-Aug-2019 15:18:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/views/common/front_header.php on line 44
+[01-Aug-2019 15:24:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/rwtpl/public_html/career-marshal/application/views/common/front_header.php on line 44
+[01-Aug-2019 15:24:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/views/common/front_header.php on line 44
+[01-Aug-2019 15:47:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/rwtpl/public_html/career-marshal/application/views/common/front_header.php on line 49
+[01-Aug-2019 16:18:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_postjobs.php on line 2
+[01-Aug-2019 16:21:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_postjobs.php on line 76
+[01-Aug-2019 16:29:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method Admin_model::getHomeSettingData() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 773
+[01-Aug-2019 16:35:30 Asia/Kolkata] PHP Fatal error:  Call to undefined method Admin_model::getHomeSettingData() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 773
+[01-Aug-2019 16:46:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method Admin_model::getHomeSettingData() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 773
+[01-Aug-2019 16:46:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method Admin_model::getHomeSettingData() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 773
+[01-Aug-2019 16:47:52 Asia/Kolkata] PHP Fatal error:  Call to undefined method Admin_model::getHomeSettingData() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 773
+[01-Aug-2019 16:47:53 Asia/Kolkata] PHP Fatal error:  Call to undefined method Admin_model::getHomeSettingData() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 773
+[01-Aug-2019 16:47:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method Admin_model::getHomeSettingData() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 773
+[01-Aug-2019 16:47:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method Admin_model::getHomeSettingData() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 773
+[01-Aug-2019 17:10:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function time_elapsed_string() in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_response.php on line 73
+[01-Aug-2019 17:12:19 Asia/Kolkata] PHP Fatal error:  Call to undefined function time_elapsed_string() in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_response.php on line 73
+[01-Aug-2019 17:44:15 Asia/Kolkata] PHP Fatal error:  Call to a member function get() on null in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php on line 116
+[01-Aug-2019 17:44:19 Asia/Kolkata] PHP Fatal error:  Call to a member function get() on null in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php on line 116
+[01-Aug-2019 17:44:20 Asia/Kolkata] PHP Fatal error:  Call to a member function get() on null in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php on line 116
+[01-Aug-2019 17:44:56 Asia/Kolkata] PHP Fatal error:  Call to a member function get() on null in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php on line 116
+[01-Aug-2019 17:46:38 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:46:41 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:46:42 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:46:42 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:46:42 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:47:02 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:47:06 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:47:09 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:47:09 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:47:09 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:47:37 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:47:38 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:47:38 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:47:39 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:47:39 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:47:56 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:49:05 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:49:06 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:49:06 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:49:14 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:49:23 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:49:23 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:49:30 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:49:37 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:49:41 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:50:06 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:50:12 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 793
+[01-Aug-2019 17:56:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function time_elapsed_string() in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_response.php on line 73
+[01-Aug-2019 18:20:12 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 736
+[01-Aug-2019 18:20:57 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 759
+[01-Aug-2019 18:51:17 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 736
+[01-Aug-2019 18:51:20 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 736
+[01-Aug-2019 18:51:20 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 736
+[01-Aug-2019 18:51:21 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 736
+[01-Aug-2019 18:51:21 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 736
+[01-Aug-2019 19:18:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'Resume' (T_STRING) in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_response.php on line 51
+[02-Aug-2019 11:31:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 318
+[02-Aug-2019 12:43:48 Asia/Kolkata] PHP Fatal error:  Call to undefined method Cms_model::getsettingData() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 872
+[02-Aug-2019 13:53:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 890
+[02-Aug-2019 13:54:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 891
+[02-Aug-2019 13:54:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 891
+[02-Aug-2019 14:44:35 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Cms_model::getSettingData() in /home/rwtpl/public_html/career-marshal/application/models/admin/Cms_model.php on line 313
+[02-Aug-2019 16:22:33 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getCategory() (previously declared in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php:20) in /home/rwtpl/public_html/career-marshal/application/helpers/user_helper.php on line 20
+[02-Aug-2019 17:15:36 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/career-marshal/application/views/employer/emp_addjob.php on line 58
+[05-Aug-2019 12:04:07 Asia/Kolkata] PHP Fatal error:  Call to a member function count_all() on null in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 79
+[05-Aug-2019 13:02:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '@', expecting variable (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 36
+[05-Aug-2019 17:17:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 255
+[05-Aug-2019 17:18:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 300
+[06-Aug-2019 12:13:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'CAREER' (T_STRING) in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 459
+[06-Aug-2019 12:41:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 229
+[06-Aug-2019 12:44:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 229
+[06-Aug-2019 12:44:04 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 229
+[06-Aug-2019 12:44:05 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 229
+[06-Aug-2019 12:44:05 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 229
+[06-Aug-2019 12:44:05 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 229
+[06-Aug-2019 12:44:34 Asia/Kolkata] PHP Fatal error:  Call to a member function getSkillName() on null in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 229
+[06-Aug-2019 12:46:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 231
+[06-Aug-2019 12:48:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 231
+[06-Aug-2019 12:48:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 231
+[06-Aug-2019 12:48:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 231
+[06-Aug-2019 12:49:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:49:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:49:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:49:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:49:11 Asia/Kolkata] PHP Fatal error:  Call to undefined function getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:51:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:51:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:51:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:51:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:51:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:54:15 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:54:18 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:54:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:54:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:54:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:54:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 12:54:42 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::getSkillName() in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 228
+[06-Aug-2019 13:12:53 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 230
+[06-Aug-2019 18:48:44 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 272
+[06-Aug-2019 18:48:47 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 272
+[06-Aug-2019 18:48:58 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 272
+[06-Aug-2019 19:02:07 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 265
+[06-Aug-2019 19:06:49 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 265
+[06-Aug-2019 19:07:49 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 265
+[06-Aug-2019 19:12:54 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 265
+[06-Aug-2019 19:15:15 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 265
+[06-Aug-2019 19:17:22 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 265
+[06-Aug-2019 19:18:30 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 265
+[07-Aug-2019 10:09:35 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 265
+[07-Aug-2019 10:16:50 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 266
+[07-Aug-2019 10:20:50 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 268
+[07-Aug-2019 10:22:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 262
+[07-Aug-2019 10:22:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 262
+[07-Aug-2019 10:23:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 262
+[07-Aug-2019 10:23:45 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 269
+[07-Aug-2019 10:28:55 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 270
+[07-Aug-2019 10:30:03 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 270
+[07-Aug-2019 10:31:48 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 270
+[07-Aug-2019 10:34:36 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 270
+[07-Aug-2019 10:35:55 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 270
+[07-Aug-2019 10:37:40 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 270
+[07-Aug-2019 10:38:57 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 270
+[07-Aug-2019 10:40:07 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 270
+[07-Aug-2019 10:41:15 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 270
+[07-Aug-2019 10:47:49 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 271
+[07-Aug-2019 10:49:32 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 271
+[07-Aug-2019 10:50:21 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 271
+[07-Aug-2019 10:51:35 Asia/Kolkata] PHP Fatal error:  Call to a member function to() on null in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 272
+[05-Sep-2019 10:57:05 Asia/Kolkata] PHP Fatal error:  Call to a member function initialize() on null in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 88
+[05-Sep-2019 12:13:20 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/system/libraries/Session/drivers/Session_files_driver.php on line 418
+[05-Sep-2019 13:52:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home::register() in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 263
+[05-Sep-2019 13:52:03 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home::register() in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 263
+[05-Sep-2019 14:36:07 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home::register() in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 263
+[05-Sep-2019 14:36:24 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home::register() in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 263
+[05-Sep-2019 14:36:26 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Home::register() in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 263
+[05-Sep-2019 16:08:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 218
+[05-Sep-2019 18:54:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 1042
+[05-Sep-2019 19:10:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 245
+[05-Sep-2019 19:11:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 245
+[05-Sep-2019 19:11:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 245
+[05-Sep-2019 19:12:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 314
+[06-Sep-2019 12:41:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 333
+[06-Sep-2019 12:53:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 358
+[06-Sep-2019 12:53:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 358
+[06-Sep-2019 12:54:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 358
+[06-Sep-2019 12:54:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 358
+[06-Sep-2019 12:54:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 358
+[06-Sep-2019 12:54:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 358
+[06-Sep-2019 12:54:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 358
+[06-Sep-2019 12:54:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 358
+[06-Sep-2019 12:55:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 358
+[06-Sep-2019 12:55:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 358
+[06-Sep-2019 12:55:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 358
+[06-Sep-2019 13:14:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '']);die;' (T_CONSTANT_ENCAPSED_STRING) in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 27
+[06-Sep-2019 13:29:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 786
+[06-Sep-2019 13:29:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '>' in /home/rwtpl/public_html/career-marshal/application/views/users/usershome.php on line 786
+[04-Oct-2019 13:13:29 Asia/Kolkata] PHP Fatal error:  Call to undefined function form_label() in /home/rwtpl/public_html/career-marshal/application/views/login.php on line 48
+[04-Oct-2019 13:13:32 Asia/Kolkata] PHP Fatal error:  Call to undefined function form_label() in /home/rwtpl/public_html/career-marshal/application/views/login.php on line 48
+[04-Oct-2019 13:13:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function form_label() in /home/rwtpl/public_html/career-marshal/application/views/login.php on line 48
+[04-Oct-2019 13:13:37 Asia/Kolkata] PHP Fatal error:  Call to undefined function form_label() in /home/rwtpl/public_html/career-marshal/application/views/login.php on line 48
+[04-Oct-2019 14:42:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 221
+[07-Oct-2019 16:38:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method Home::test_input() in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 558
+[09-Oct-2019 14:55:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 154
+[09-Oct-2019 15:41:31 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::where_or() in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 171
+[09-Oct-2019 15:41:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::where_or() in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 171
+[09-Oct-2019 15:41:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::where_or() in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 171
+[11-Oct-2019 14:29:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method Cms_model::getData() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 1039
+[11-Oct-2019 14:31:01 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_permision() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 1042
+[11-Oct-2019 14:53:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/rwtpl/public_html/career-marshal/application/views/admin/blog.php on line 91
+[16-Oct-2019 16:59:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/views/emp_login.php on line 57
+[16-Oct-2019 16:59:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/views/emp_login.php on line 57
+[17-Oct-2019 11:15:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/rwtpl/public_html/career-marshal/application/controllers/Hauth.php on line 22
+[17-Oct-2019 11:17:09 Asia/Kolkata] PHP Fatal error:  Call to a member function process() on null in /home/rwtpl/public_html/career-marshal/application/controllers/Hauth.php on line 72
+[17-Oct-2019 11:20:45 Asia/Kolkata] PHP Fatal error:  Call to a member function process() on null in /home/rwtpl/public_html/career-marshal/application/controllers/Hauth.php on line 73
+[17-Oct-2019 11:22:16 Asia/Kolkata] PHP Fatal error:  Call to a member function process() on null in /home/rwtpl/public_html/career-marshal/application/controllers/Hauth.php on line 73
+[17-Oct-2019 11:22:18 Asia/Kolkata] PHP Fatal error:  Call to a member function process() on null in /home/rwtpl/public_html/career-marshal/application/controllers/Hauth.php on line 73
+[17-Oct-2019 11:34:51 Asia/Kolkata] PHP Fatal error:  Class 'Hybrid_Auth' not found in /home/rwtpl/public_html/career-marshal/application/libraries/Hybridauth.php on line 51
+[17-Oct-2019 11:37:26 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/errors/html/error_php.php on line 17
+[17-Oct-2019 13:04:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 449
+[18-Oct-2019 12:47:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[18-Oct-2019 12:47:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[18-Oct-2019 12:48:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[18-Oct-2019 12:48:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[18-Oct-2019 12:48:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[18-Oct-2019 12:48:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[18-Oct-2019 12:48:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[18-Oct-2019 12:48:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[18-Oct-2019 12:48:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[18-Oct-2019 12:48:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[18-Oct-2019 12:48:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[18-Oct-2019 12:48:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/models/Home_model.php on line 331
+[24-Oct-2019 15:07:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 415
+[24-Oct-2019 16:21:33 Asia/Kolkata] PHP Fatal error:  Call to undefined function decode() in /home/rwtpl/public_html/career-marshal/application/controllers/users/UsersDashboard.php on line 452
+[30-Oct-2019 15:35:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:35:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:36:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:36:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:37:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:37:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:38:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:39:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:41:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:43:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:43:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:43:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:44:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:44:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:45:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:45:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:45:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:46:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:46:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:46:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:47:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:47:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:47:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:48:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:48:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:48:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:48:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:48:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:51:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:52:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:52:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:53:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:55:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:57:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 15:57:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:01:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:01:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:02:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:03:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:03:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:04:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:04:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:04:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:05:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:05:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:06:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:06:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:06:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:07:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:07:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:08:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 16:08:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 858
+[30-Oct-2019 17:38:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 864
+[30-Oct-2019 17:39:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 870
+[30-Oct-2019 17:39:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 870
+[30-Oct-2019 17:39:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 870
+[30-Oct-2019 17:39:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 870
+[30-Oct-2019 17:40:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 870
+[30-Oct-2019 17:41:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 870
+[30-Oct-2019 17:41:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 870
+[30-Oct-2019 17:42:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting function (T_FUNCTION) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 878
+[30-Oct-2019 17:42:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting function (T_FUNCTION) in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 878
+[02-Nov-2019 16:33:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/views/admin/add-job-post.php on line 82
+[07-Nov-2019 16:49:03 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getSkillName() (previously declared in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php:220) in /home/rwtpl/public_html/career-marshal/application/helpers/user_helper.php on line 2
+[07-Nov-2019 16:50:02 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getSkillName() (previously declared in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php:220) in /home/rwtpl/public_html/career-marshal/application/helpers/user_helper.php on line 2
+[08-Nov-2019 15:27:50 Asia/Kolkata] PHP Fatal error:  Cannot redeclare getSkillName() (previously declared in /home/rwtpl/public_html/career-marshal/application/helpers/pizza_helper.php:220) in /home/rwtpl/public_html/career-marshal/application/helpers/user_helper.php on line 19
+[20-Nov-2019 18:51:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Cms_controller::deleteGlimpse() in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 755
+[21-Nov-2019 10:40:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/views/pages.php on line 1017
+[21-Nov-2019 11:52:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 973
+[21-Nov-2019 11:55:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/rwtpl/public_html/career-marshal/application/views/pages.php on line 1041
+[21-Nov-2019 13:41:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/config/routes.php on line 96
+[21-Nov-2019 13:41:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/config/routes.php on line 96
+[21-Nov-2019 13:41:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/config/routes.php on line 96
+[22-Nov-2019 13:13:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 187
+[22-Nov-2019 13:13:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 187
+[22-Nov-2019 13:22:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 191
+[22-Nov-2019 13:23:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function emplode() in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 194
+[29-Nov-2019 12:40:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 624
+[29-Nov-2019 12:41:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rwtpl/public_html/career-marshal/application/controllers/admin/Cms_controller.php on line 624
+[04-Dec-2019 12:07:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 76
+[04-Dec-2019 12:08:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 76
+[04-Dec-2019 12:10:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''("home/jobs_details/"'' (T_CONSTANT_ENCAPSED_STRING) in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 76
+[04-Dec-2019 12:11:47 Asia/Kolkata] PHP Fatal error:  Call to undefined function base_url() in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 76
+[04-Dec-2019 12:13:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''" target="_blank" class="btn ' (T_CONSTANT_ENCAPSED_STRING) in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 76
+[04-Dec-2019 12:17:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function base_url() in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 76
+[04-Dec-2019 12:17:11 Asia/Kolkata] PHP Fatal error:  Call to undefined function base_url() in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 76
+[04-Dec-2019 12:17:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function base_url() in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 76
+[04-Dec-2019 12:20:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$jobs' (T_VARIABLE) in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 76
+[04-Dec-2019 12:25:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 66
+[04-Dec-2019 13:30:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 92
+[04-Dec-2019 13:37:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 74
+[04-Dec-2019 14:43:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rwtpl/public_html/career-marshal/application/controllers/Cron.php on line 200
+[20-Jan-2020 13:34:13 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 101
+[20-Jan-2020 13:35:53 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 13:35:53 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 13:36:42 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 13:37:32 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 13:38:26 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 13:39:15 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 13:40:33 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 13:41:27 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 13:43:02 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 13:43:53 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 101
+[20-Jan-2020 13:44:43 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 13:46:30 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 13:46:30 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 100
+[20-Jan-2020 08:17:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 101
+[20-Jan-2020 08:18:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/system/core/Common.php on line 614
+[20-Jan-2020 08:19:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 101
+[20-Jan-2020 08:19:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/application/views/jobs-challenge.php on line 101
+[23-Jan-2020 13:38:38 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[23-Jan-2020 13:38:39 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[23-Jan-2020 13:38:59 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[23-Jan-2020 13:39:09 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[23-Jan-2020 13:39:30 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[23-Jan-2020 13:39:35 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[23-Jan-2020 13:39:38 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[23-Jan-2020 13:39:53 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[23-Jan-2020 13:39:54 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[23-Jan-2020 13:39:55 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[23-Jan-2020 13:39:57 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[23-Jan-2020 13:39:58 Asia/Kolkata] PHP Fatal error:  Redefinition of parameter $name in /home/rwtpl/public_html/career-marshal/application/controllers/Home.php on line 65
+[06-Feb-2020 14:49:24 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rwtpl/public_html/career-marshal/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[20-Feb-2020 13:43:50 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rnwo9cy48fin/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+
+[02-Mar-2020 12:42:57 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Cms_controller::addTeam() in /home/rnwo9cy48fin/public_html/application/controllers/admin/Cms_controller.php on line 2485
