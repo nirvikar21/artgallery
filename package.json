@@ -1,5 +1,6 @@
 {
   "name": "artgallery",
+  "homepage":"https://nirvikar21.github.io/artgallery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
